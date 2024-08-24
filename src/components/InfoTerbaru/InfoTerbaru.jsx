@@ -6,7 +6,7 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import { Navigation, Pagination } from "swiper/modules";
 
-import infoImage1 from "/src/assets/hero-pondok1.jpeg";
+import infoImage1 from "/src/assets/brosur.png";
 import infoImage2 from "/src/assets/hero-pondok2.jpg";
 import infoImage3 from "/src/assets/hero-pondok3.jpeg";
 import infoImage4 from "/src/assets/futsal.jpg";

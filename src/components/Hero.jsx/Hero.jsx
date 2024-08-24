@@ -53,7 +53,7 @@ const Hero = () => {
             data-aos-duration="600"
             className="mb-8 text-lg font-bold"
           >
-            Terakreditasi A
+            Terakreditasi c
           </h2>
 
           {/* Button Section */}
